@@ -57,7 +57,7 @@
   },
   "main": "dist/index.js",
   "files": [
-    "./dist"
+    "./dist/"
   ],
   "jest": {
     "moduleFileExtensions": [

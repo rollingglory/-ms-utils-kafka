@@ -9,7 +9,7 @@ import { from, map, Observable, switchMap } from 'rxjs';
 export class ClientKafkaProvider extends ClientKafka {
   private readonly plogger: Logger;
 
-  private readonly producerPath: string = 'asd';
+  private readonly producerPath: string = 'asdg';
 
   private schemaRegistry: SchemaRegistry;
 

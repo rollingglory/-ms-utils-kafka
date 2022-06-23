@@ -4,3 +4,4 @@ export * from './safe-request/safe-request.module';
 export * from './safe-request/safe-request.service';
 export * from './schema-registry';
 
+const a = 'asd'
